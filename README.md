@@ -1,0 +1,2 @@
+# DES
+pip install pycrypto
